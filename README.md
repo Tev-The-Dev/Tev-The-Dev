@@ -74,6 +74,4 @@ I am a software engineer. Let's be honest, I am a student studying Software Engi
  </details>
 </details>
 
-<details>
-
 <hr>
