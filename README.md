@@ -75,12 +75,5 @@ I am a software engineer. Let's be honest, I am a student studying Software Engi
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/Tev-The-Dev/Tev-The-Dev/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:tevyn.payne@gmail.com">
-      <img align="center" src="https://github.com/Tev-The-Dev/Tev-The-Dev/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+
 <hr>
