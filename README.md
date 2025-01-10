@@ -38,7 +38,7 @@ I am a software engineer. Let's be honest, I am a student studying Software Engi
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Tev-The-Dev/Tev-The-Dev/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <summary> <img align="center" src="https://github.com/Tev-The-Dev/Tev-The-Dev/blob/main/icons/academics.gif" width="29"/> <h4>Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-WGU-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-N/A-EFEEE9?style=for-the-badge"></span>
  </details>
